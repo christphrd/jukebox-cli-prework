@@ -1,7 +1,7 @@
 #Here is the song hash you will be working with. Each key is a song name and each value is the location of it's mp3 file.
 #make sure to edit the value of each key to replace < path to this directory >
 #with the correct path to this directory on your computer
-
+require 'pry'
 my_songs = {
   "Go Go GO" => '
 /home/christphrd/jukebox-cli-prework/audio/Emerald-Park/01.mp3',
@@ -60,6 +60,7 @@ def exit_jukebox
 end
 
 def run(my_songs)
+  binding.pry
   help
   user_input = nil
   until user_input == "exit"
