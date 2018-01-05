@@ -6,17 +6,17 @@ my_songs = {
   "Go Go GO" => '
 ~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/01.mp3',
   "LiberTeens" => '
-/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/02.mp3',
+~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/02.mp3',
   "Hamburg" =>  '
-/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/03.mp3',
+~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/03.mp3',
   "Guiding Light" => '
-/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/04.mp3',
+~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/04.mp3',
   "Wolf" => '
 ~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/05.mp3',
   "Blue" => '
-/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/06.mp3',
+~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/06.mp3',
   "Graduation Failed" => '
-/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/07.mp3'
+~/Users/chrisdiep/.atom/.learn-ide/home/christphrd/jukebox-cli-prework/audio/Emerald-Park/07.mp3'
 }
 
 def help
