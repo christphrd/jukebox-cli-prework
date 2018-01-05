@@ -60,7 +60,6 @@ def exit_jukebox
 end
 
 def run(my_songs)
-  binding.pry
   help
   user_input = nil
   until user_input == "exit"
